@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP32-S3_6-Channel_Relay_Controller.PrjPcb]
+   Generated File[esp32s3-RoundHoles.TXT]
+   Generated File[esp32s3-SlotHoles.TXT]
+   Generated File[esp32s3.LDP]
+   Generated File[esp32s3.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:40:30 PM On 11/11/2026
